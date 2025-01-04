@@ -1,13 +1,19 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 300 200" fill="none">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 200 200" fill="none">
+
     <!-- Shield Base -->
+
     <path d="M100 10 L150 50 L150 120 Q100 170 50 120 L50 50 Z" fill="#1E90FF" />
 
+
+
     <!-- Inner Border -->
+
     <path d="M100 20 L140 55 L140 115 Q100 160 60 115 L60 55 Z" fill="#FFFFFF" />
 
+
+
     <!-- Center Dot -->
+
     <circle cx="100" cy="85" r="10" fill="#1E90FF" />
 
-    <!-- Text -->
-    <text x="170" y="100" font-family="Arial, sans-serif" font-size="90" fill="#1E90FF" alignment-baseline="middle" dominant-baseline="middle">AuthForge</text>
 </svg>
