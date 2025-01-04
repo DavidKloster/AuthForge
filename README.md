@@ -1,4 +1,4 @@
-![Logo](https://github.com/DavidKloster/AuthForge/blob/master/docs/autforge-logo-symbolic.svg)
+![Logo](https://github.com/DavidKloster/AuthForge/blob/master/docs/autforge-logo.svg)
 
 # AuthForge
 
